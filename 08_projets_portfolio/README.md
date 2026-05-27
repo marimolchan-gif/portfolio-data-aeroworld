@@ -8,13 +8,15 @@ Les projets ont été choisis pour couvrir des contextes variés — santé publ
 
 ## Projets présentés
 
-- [P4 — Étude de santé publique : alimentation dans le monde](./P4_sante_publique/)
-- [P5 — Création et utilisation d’une base de données immobilière](./P5_base_donnees_immobiliere/)
-- [P6 — Optimisation de la gestion des données d’une boutique](./P6_boutique_vins/)
-- [P7 — Création d’un tableau de bord dynamique avec Power BI](./P7_dashboard_sanitoral/)
-- [P9 — Analyse des ventes d’une librairie avec Python](./P9_ventes_librairie/)
-- [P11 — Étude de marché internationale — La poule qui chante](./P11_etude_marche_internationale/)
-- [P12 — Détection de faux billets avec Python](./P12_detection_faux_billets/)
+## Projets présentés
+
+- [P4 — Étude de santé publique : alimentation dans le monde](<./P4 — Étude de santé publique : alimentation dans le monde/>)
+- [P5 — Création et utilisation d’une base de données immobilière](<./P5 — Création et utilisation d’une base de données immobilière/>)
+- [P6 — Optimisation de la gestion des données d’une boutique](<./P6 — Optimisation de la gestion des données d’une boutique/>)
+- [P7 — Création d’un tableau de bord dynamique avec Power BI](<./P7 — Création d’un tableau de bord dynamique avec Power BI/>)
+- [P9 — Analyse des ventes d’une librairie avec Python](<./P9 — Analyse des ventes d’une librairie avec Python/>)
+- [P11 — Étude de marché internationale — La poule qui chante](<./P11 — Étude de marché internationale — La poule qui chante/>)
+- [P12 — Détection de faux billets avec Python](<./P12 — Détection de faux billets avec Python/>)
 
 ## Logique de présentation
 
