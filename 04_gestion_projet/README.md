@@ -80,7 +80,8 @@ Le diagramme de Gantt permet de visualiser les principales phases du projet, leu
 
 Il couvre la période du **17 mai 2026 au 16 juin 2026**.
 
-![Diagramme de Gantt](./diagramme_gantt.png)
+<img width="989" height="629" alt="image" src="https://github.com/user-attachments/assets/9534609f-2101-4f47-8cda-ed0674f08328" />
+
 
 ---
 
