@@ -1,1 +1,1 @@
-
+Cette approche permet de 
