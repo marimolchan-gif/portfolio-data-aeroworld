@@ -31,6 +31,10 @@ Projets → Compétences démontrées → Besoins client → Use cases Aéroworl
 
 # Dashboard 1 — Profile expert data
 
+
+<img width="1310" height="743" alt="image" src="https://github.com/user-attachments/assets/ab7c0051-e9c6-453d-aea3-b344b3adf00e" />
+
+
 ## 3. Objectif du dashboard
 
 Le premier dashboard présente mon profil de **Data Analyst / BI & Analytics Engineer** à partir des projets réalisés et des compétences démontrées.
@@ -123,6 +127,9 @@ La logique de lecture est la suivante :
 Projet réalisé → Compétence démontrée → Niveau de maîtrise → Preuve associée
 
 # Dashboard 2 — Profile alignment with client needs
+
+<img width="1311" height="737" alt="image" src="https://github.com/user-attachments/assets/6d762d3c-664d-4510-981d-3744fb44c7e9" />
+
 
 ## 7. Objectif du dashboard
 
