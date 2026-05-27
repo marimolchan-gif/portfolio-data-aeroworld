@@ -13,6 +13,7 @@ Présentation de mon profil Data Analyst / BI & Analytics Engineer : positionnem
 - [Dashboards Power BI](./05_dashboards/)
 - [Documentation utilisateur](./06_documentation/)
 - [Vidéo de formation](./07_video_formation/)
+- [Projets portfolio](./08_projets_portfolio/)
 
 ## Projets présentés
 
