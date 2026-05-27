@@ -216,7 +216,6 @@ Le portfolio est hébergé dans un dépôt GitHub unique.
 
 Structure cible :
 
-```text
 portfolio-data-aeroworld/
 │
 ├── README.md
@@ -228,6 +227,7 @@ portfolio-data-aeroworld/
 ├── 06_documentation/
 ├── 07_video_formation/
 └── 08_projets_portfolio/
+
 
 ## 6.2 Technologies utilisées
 
