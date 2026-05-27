@@ -1,7 +1,9 @@
 # Portfolio Data — Aéroworld
 
 ## Profil
-Présentation de mon profil Data Analyst / BI & Analytics Engineer.
+Présentation de mon profil Data Analyst / BI & Analytics Engineer : positionnement professionnel, compétences clés, expériences, certifications et vision du métier.
+
+- [Consulter mon profil expert](./01_profil_expert/)
 
 ## Livrables du projet
 
