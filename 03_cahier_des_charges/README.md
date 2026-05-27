@@ -300,8 +300,6 @@ Les dashboards comportent des indicateurs permettant d’évaluer à la fois mon
 
 Le **Global Alignment** est l’indicateur central du deuxième dashboard. Il combine l’importance de chaque attente client avec le niveau de couverture démontré par les projets du portfolio.
 
-```text
-Global Alignment = Σ(Importance × Coverage Level) / Σ(Importance × 5)
 
 ## 7. Contraintes techniques et réglementaires
 
