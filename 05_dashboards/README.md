@@ -31,8 +31,7 @@ Projets → Compétences démontrées → Besoins client → Use cases Aéroworl
 
 # Dashboard 1 — Profile expert data
 
-
-<img width="1310" height="743" alt="image" src="https://github.com/user-attachments/assets/ab7c0051-e9c6-453d-aea3-b344b3adf00e" />
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/7bb11809-9a2c-4285-b9c9-5ab74effdfff" />
 
 
 ## 3. Objectif du dashboard
